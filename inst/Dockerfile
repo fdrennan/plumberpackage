@@ -13,7 +13,7 @@ RUN R CMD javareconf
 
 RUN R -e "install.packages('devtools')"
 RUN R -e "install.packages('jsonlite')"
-RUN R -e 'devtools::install_github("fdrennan/plumbertemplate")'
+RUN R -e 'devtools::install_github("fdrennan/plumberpackage")'
 
 EXPOSE 8000
 ENTRYPOINT ["R", "-e", "pr <- plumber::plumb(commandArgs()[4]); pr$run(host='0.0.0.0', port=8000)"]
