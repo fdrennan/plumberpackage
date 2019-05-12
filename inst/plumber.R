@@ -36,7 +36,7 @@ function(a, b) {
 
 #* Makes you wait
 #* @param n Seconds to wait
-#* @post /wait
+#* @get /wait
 function(n) {
   plumberpackage::wait(n)
 }
