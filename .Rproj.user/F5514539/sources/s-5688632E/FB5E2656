@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557686735839.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FB5E2656",
+    "lastKnownWriteTime" : 1557687341,
+    "last_content_update" : 1557687341993,
+    "path" : "~/Documents/R/plumberpackage/R/plumber.R",
+    "project_path" : "R/plumber.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

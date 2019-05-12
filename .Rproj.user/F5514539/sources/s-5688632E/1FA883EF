@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557686325966.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1FA883EF",
+    "lastKnownWriteTime" : 1557686919,
+    "last_content_update" : 1557686919169,
+    "path" : "~/Documents/R/plumberpackage/R/myFunctions.R",
+    "project_path" : "R/myFunctions.R",
+    "properties" : {
+        "cursorPosition" : "16,35",
+        "scrollLine" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
